@@ -90,7 +90,6 @@ int main()
 {
    cout << "-------------------------------------------------------------------" << endl;
    cout << "Project: Conversion of numbers" << endl
-        << "Moskalevskyi Mykola   ITfuc-22    20223907" << endl
         << endl;
 
    double E_sup, S, Sdecimal;
